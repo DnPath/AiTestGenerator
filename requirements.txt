@@ -1,0 +1,7 @@
+streamlit
+boto3
+pandas
+openpyxl
+python-docx
+PyPDF2
+tiktoken

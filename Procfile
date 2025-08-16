@@ -1,0 +1,1 @@
+web: streamlit run Test_Case_Generator_V3.py --server.port=8000 --server.enableCORS=false --server.enableXsrfProtection=false
